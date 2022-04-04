@@ -1,1 +1,2 @@
-- [ ] Install Dependencies
+- [x] Install Dependencies
+- [ ] Project Setup
